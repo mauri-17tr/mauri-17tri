@@ -66,23 +66,32 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 </p>
 
 </br>
+</br>
 <h2>🚀 Proyectos Destacados</h2>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Sistema Universitario</h3>
 <div align="center">
-  <a href="https://github.com/mauri-17tr/Sistema-Universitario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauri-17tr&repo=Sistema-Universitario&theme=tokyonight&border_radius=10&card_width=400" alt="Sistema Universitario"/>
-  </a>
-  <a href="https://github.com/mauri-17tr/Tienda-online">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauri-17tr&repo=nombre-repo-2&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 2"/>
-  </a>
+<a href="https://github.com/mauri-17tr/Sistema-Universitario" target="_blank">
+<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<p>📚 Sistema completo de gestión universitaria con control de estudiantes, materias y calificaciones.</p>
 </div>
+</td>
+
+<td width="50%">
+<h3 align="center">Tienda Online</h3>
 <div align="center">
-  <a href="https://github.com/mauri-17tr/nombre-repo-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauri-17tr&repo=nombre-repo-3&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 3"/>
-  </a>
-  <a href="https://github.com/mauri-17tr/nombre-repo-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauri-17tr&repo=nombre-repo-4&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 4"/>
-  </a>
+<a href="https://github.com/mauri-17tr/Tienda-online" target="_blank">
+<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<p>🛒 Plataforma de comercio electrónico con carrito de compras y gestión de productos.</p>
 </div>
+</td>
+</tr>
+</table>
 
 
 ## 📫 Conecta conmigo
