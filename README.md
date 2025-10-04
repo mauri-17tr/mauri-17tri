@@ -151,12 +151,14 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 
 ## 📫 Conecta conmigo
 
-<a href="https://www.linkedin.com/in/mauricio-ernesto-recinos-trigueros" target="_blank">
+<a href="https://www.linkedin.com/in/MauricioRecinos" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-
-<a href="mailto:trigueros2017mauri@email.com" target="_blank">
+<a href="mailto:trigueros2017mauri@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:ia.m_trigueros@ufg.edu.sv" target="_blank">
+<img src="https://img.shields.io/badge/Email_UFG-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email universidad" style="margin-bottom: 5px;" />
 </a>
 
 ---
