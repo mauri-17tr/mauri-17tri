@@ -143,7 +143,7 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 ## 📄 Curriculum Vitae
 
 <div align="center">
-<a href="ENLACE_A_TU_CV.pdf" target="_blank">
+<a href="https://github.com/mauri-17tr/mauri-17tri/blob/main/Curriculum%20Vitae%20CV%20.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Descargar_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV">
 </a>
 <p>📥 Descarga mi CV completo para conocer más sobre mi experiencia y formación</p>
