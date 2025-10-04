@@ -67,8 +67,8 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 
 </br>
 </br>
-<h2>🚀 Proyectos Destacados</h2>
 
+<h2>🚀 Proyectos Destacados</h2>
 <table>
 <tr>
 <td width="50%">
@@ -80,7 +80,6 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 <p>📚 Sistema completo de gestión universitaria con control de estudiantes, materias y calificaciones.</p>
 </div>
 </td>
-
 <td width="50%">
 <h3 align="center">Tienda Online</h3>
 <div align="center">
@@ -91,8 +90,18 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 </div>
 </td>
 </tr>
+<tr>
+<td width="50%">
+<h3 align="center">Sudoku</h3>
+<div align="center">
+<a href="https://github.com/mauri-17tr/Sudoku" target="_blank">
+<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<p>🎮 Juego de Sudoku interactivo con diferentes niveles de dificultad y sistema de puntuación.</p>
+</div>
+</td>
+</tr>
 </table>
-
 
 ## 📫 Conecta conmigo
 
