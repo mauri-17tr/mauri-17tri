@@ -14,6 +14,36 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Habilidades Técnicas</b>
+## 🎓 Formación Académica
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Universidad Francisco Gavidia</h3>
+<div align="center">
+<p>
+📖 <strong>Ingeniería en Ciencias de la Computación</strong><br>
+🎯 Actualmente cursando 4to ciclo<br>
+📅 En curso
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Técnico Vocacional</h3>
+<div align="center">
+<p>
+🎓 <strong>Desarrollo de Software</strong><br>
+✅ Graduado<br>
+💼 Base sólida en programación y desarrollo
+</p>
+</div>
+</td>
+</tr>
+</table>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Habilidades Técnicas</b>
+
+
 
 <p align="center">
 
@@ -104,11 +134,19 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 <a href="https://github.com/mauri-17tr/Organizador-de-tareas" target="_blank">
 <img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<p>✅ Aplicación para gestionar y organizar tareas con prioridades, fechas límite y recordatorios.</p>
+<p>✅ Aplicación para gestionar y organizar tareas con prioridades.</p>
 </div>
 </td>
 </tr>
 </table>
+## 📄 Curriculum Vitae
+
+<div align="center">
+<a href="ENLACE_A_TU_CV.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Descargar_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV">
+</a>
+<p>📥 Descarga mi CV completo para conocer más sobre mi experiencia y formación</p>
+</div>
 
 ## 📫 Conecta conmigo
 
