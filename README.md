@@ -7,8 +7,8 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 </p>
 
 <p>
-💻 <strong>Especialidades:</strong> Desarrollo de aplicaciones web robustas con Node.js, JavaScript moderno y frameworks como React y Vue.js<br>
-🔧 <strong>Experiencia:</strong> Desarrollo web Form en Java y C#, arquitecturas RESTful y GraphQL<br>
+💻 <strong>Especialidades:</strong> Desarrollo de aplicaciones web robustas con Node.js<br>
+🔧 <strong>Experiencia:</strong> Desarrollo web Form en Java y C#<br>
 📚 <strong>Fundamentos sólidos en:</strong> Estructuras de Datos, POO, Diseño de Bases de Datos y Patrones de Arquitectura<br>
 🚀 <strong>Enfoque:</strong> Aprendizaje continuo y resolución de problemas complejos
 </p>
