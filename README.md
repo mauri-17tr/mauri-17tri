@@ -65,26 +65,24 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
     
 </p>
 
-<br> 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Estadísticas de GitHub</b>
-
-<p align="center">
-<a href="https://github.com/mauriciorecinos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriciorecinos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
- 
-<a href="https://github.com/mauriciorecinos">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mauriciorecinos&theme=blueberry" width="380"/>
-</a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-    <a href="https://github.com/mauriciorecinos"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciorecinos&theme=tokyonight&hide_border=true" width="520" alt="Mauricio Recinos"/></a>
-<a href="https://github.com/mauriciorecinos"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauriciorecinos&show_icons=true&locale=es&layout=compact&theme=tokyonight" width="320" alt="Mauricio Recinos"/></a>
-</p>
+</br>
+<h2>🚀 Proyectos Destacados</h2>
+<div align="center">
+  <a href="https://github.com/mauriciorecinos/proyecto1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto1&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 1"/>
+  </a>
+  <a href="https://github.com/mauriciorecinos/proyecto2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto2&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 2"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/mauriciorecinos/proyecto3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto3&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 3"/>
+  </a>
+  <a href="https://github.com/mauriciorecinos/proyecto4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto4&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 4"/>
+  </a>
+</div>
 
 ## 📫 Conecta conmigo
 
