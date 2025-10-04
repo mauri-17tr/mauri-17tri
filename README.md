@@ -71,7 +71,7 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
   <a href="https://github.com/mauri-17tr/Sistema-Universitario">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto1&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 1"/>
   </a>
-  <a href="https://github.com/mauriciorecinos/proyecto2">
+  <a href="https://github.com/mauri-17tr/Tienda-online">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto2&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 2"/>
   </a>
 </div>
