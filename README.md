@@ -69,20 +69,21 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 <h2>🚀 Proyectos Destacados</h2>
 <div align="center">
   <a href="https://github.com/mauri-17tr/Sistema-Universitario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto1&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauri-17tr&repo=Sistema-Universitario&theme=tokyonight&border_radius=10&card_width=400" alt="Sistema Universitario"/>
   </a>
   <a href="https://github.com/mauri-17tr/Tienda-online">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto2&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauri-17tr&repo=nombre-repo-2&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 2"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/mauriciorecinos/proyecto3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto3&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 3"/>
+  <a href="https://github.com/mauri-17tr/nombre-repo-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauri-17tr&repo=nombre-repo-3&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 3"/>
   </a>
-  <a href="https://github.com/mauriciorecinos/proyecto4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauriciorecinos&repo=proyecto4&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 4"/>
+  <a href="https://github.com/mauri-17tr/nombre-repo-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mauri-17tr&repo=nombre-repo-4&theme=tokyonight&border_radius=10&card_width=400" alt="Proyecto 4"/>
   </a>
 </div>
+
 
 ## 📫 Conecta conmigo
 
