@@ -95,9 +95,30 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
     
 </p>
 
-</br>
 <h2>🚀 Proyectos Destacados</h2>
+
+<h3>🎓 Universidad</h3>
 <table>
+<tr>
+<td width="50%">
+<h3 align="center">AdoptaPet</h3>
+<div align="center">
+<a href="https://github.com/mauri-17tr/AdoptaPet" target="_blank">
+<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<p>🐾 Sistema web de adopción de mascotas con gestión de centros de adopción, usuarios, donaciones y notificaciones por correo. Desarrollado con Node.js, Express, MySQL y arquitectura MVC.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Centro de Acopio</h3>
+<div align="center">
+<a href="https://github.com/mauri-17tr/CentroAcopioEventos" target="_blank">
+<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<p>🤝 Aplicación de escritorio para gestionar donaciones y ayuda en situaciones de emergencia. Desarrollada en C# con Windows Forms y SQL Server.</p>
+</div>
+</td>
+</tr>
 <tr>
 <td width="50%">
 <h3 align="center">Sistema Universitario</h3>
@@ -118,40 +139,36 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 </div>
 </td>
 </tr>
+</table>
+
+<h3>🏫 Bachillerato</h3>
+<table>
 <tr>
-<td width="50%">
-<h3 align="center">Sudoku</h3>
-<div align="center">
-<a href="https://github.com/mauri-17tr/Sudoku" target="_blank">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>🎮 Juego de Sudoku interactivo con diferentes niveles de dificultad y sistema de puntuación.</p>
-</div>
-</td>
 <td width="50%">
 <h3 align="center">Organizador de Tareas</h3>
 <div align="center">
 <a href="https://github.com/mauri-17tr/Organizador-de-tareas" target="_blank">
 <img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<p>✅ Aplicación para gestionar y organizar tareas con prioridades.</p>
+<p>✅ Aplicación para gestionar y organizar tareas con prioridades. Desarrollada en 3.º año de bachillerato.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Sudoku</h3>
+<div align="center">
+<a href="https://github.com/mauri-17tr/Sudoku" target="_blank">
+<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<p>🎮 Juego de Sudoku interactivo con diferentes niveles de dificultad. Desarrollado en 2.º año de bachillerato.</p>
 </div>
 </td>
 </tr>
-    <td width="50%">
-<h3 align="center">AdoptaPet</h3>
-<div align="center">
-<a href="https://github.com/mauri-17tr/AdoptaPet" target="_blank">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>🐾 Sistema web de adopción de mascotas con gestión de centros de adopción, usuarios, donaciones y notificaciones por correo. Desarrollado con Node.js, Express, MySQL y arquitectura MVC.</p>
-</div>
 </table>
 
 ## 📄 Curriculum Vitae
 
 <div align="center">
-<a href="https://github.com/mauri-17tr/mauri-17tri/blob/main/Curriculum%20Vitae%20CV%20.pdf" target="_blank">
+<a href="https://github.com/mauri-17tr/mauri-17tri/blob/main/Mauricio%20Ernesto%20Recinos%20Trigueros%20Curriculum%20Vitae.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Descargar_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV">
 </a>
 <p>📥 Descarga mi CV completo para conocer más sobre mi experiencia y formación</p>
