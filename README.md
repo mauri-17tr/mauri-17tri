@@ -23,7 +23,7 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 <div align="center">
 <p>
 📖 <strong>Ingeniería en Ciencias de la Computación</strong><br>
-🎯 Actualmente cursando 4to ciclo<br>
+🎯 Actualmente cursando 6to ciclo<br>
 📅 En curso
 </p>
 </div>
