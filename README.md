@@ -138,6 +138,14 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 </div>
 </td>
 </tr>
+    <td width="50%">
+<h3 align="center">AdoptaPet</h3>
+<div align="center">
+<a href="https://github.com/mauri-17tr/AdoptaPet" target="_blank">
+<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<p>🐾 Sistema web de adopción de mascotas con gestión de centros de adopción, usuarios, donaciones y notificaciones por correo. Desarrollado con Node.js, Express, MySQL y arquitectura MVC.</p>
+</div>
 </table>
 
 ## 📄 Curriculum Vitae
